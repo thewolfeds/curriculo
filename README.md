@@ -1,2 +1,2 @@
 # curriculo
-Currículo hetml
+Currículo html
